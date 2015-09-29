@@ -17,7 +17,7 @@ from scipy import polyfit # for detrending
 
 
 # CC some flags
-DETREND=1
+DETREND=0
 SUM=0
 NUM_PLAYERS=2
 
